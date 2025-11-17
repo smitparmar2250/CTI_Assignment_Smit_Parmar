@@ -25,11 +25,15 @@ In July 2017, cybersecurity researchers at Palo Alto Networks Unit 42 discovered
 
 
 1. How does the Diamond Model help?
-   
+
 The Diamond Model breaks down attacks into simple parts. It helps you see who is doing the attack, what tools they use, and who they are targeting. This makes it easier to understand and track bad guys.
-3. What were the challenges?
+
+2. What were the challenges?
+
 It was sometimes hard to tell which servers and websites the attacker used and to know for sure who was behind the attack. Some clues matched other groups, so that got confusing.
-4. How can it help stop attacks?
+
+3. How can it help stop attacks?
+
 By knowing how attackers work and what tools or methods they use, defenders can keep watch for those threats, set up better blocks, and warn people who might get targeted next.
 
 

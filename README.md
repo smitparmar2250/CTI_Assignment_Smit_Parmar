@@ -35,9 +35,3 @@ It was sometimes hard to tell which servers and websites the attacker used and t
 By knowing how attackers work and what tools or methods they use, defenders can keep watch for those threats, set up better blocks, and warn people who might get targeted next.
 
 
-
-✅ A clean **draw.io XML file**  
-✅ A **proper GitLab-ready folder structure**  
-✅ A **checklist to ensure you get full marks**
-
-Just tell me!

@@ -1,6 +1,6 @@
 # CTI_Assignment_Smit_Parmar
 # Diamond Model Threat Actor Analysis  
-**Author:** Smit Parmar  
+ Smit Parmar  
 
 
 ##  Task 3: Diamond Model Elements 

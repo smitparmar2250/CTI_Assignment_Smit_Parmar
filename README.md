@@ -20,7 +20,7 @@ In July 2017, researchers from Palo Alto Networks Unit 42 found a phishing attac
 
 While investigating, the researchers found that the emails and malware were linked to servers in Germany and Pakistan. One domain, subaat.com, stood out because it hosted many types of malware. Records and online activity suggested the domain might be connected to someone living in Pakistan. Some parts of the attack looked similar to older operations like Transparent Tribe, but there wasn’t enough proof to say it was the same group.
 
-**Overall, the case shows that phishing is still a big danger for government organizations. Attackers use simple tricks emails, fake documents, and old software bugs to get into systems. It also shows that their setup can be spread across different countries. For defenders, this is a reminder to watch for strange attachments and block known bad servers before they cause damage.
+Overall, the case shows that phishing is still a big danger for government organizations. Attackers use simple tricks emails, fake documents, and old software bugs to get into systems. It also shows that their setup can be spread across different countries. For defenders, this is a reminder to watch for strange attachments and block known bad servers before they cause damage.
 
 
 ##  Task 6: Reflection 
